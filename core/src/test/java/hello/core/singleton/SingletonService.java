@@ -11,7 +11,7 @@ public class SingletonService {
     }
 
     public void logic() {
-        System.out.println("싱글통 객체 로직 호출");
+        System.out.println("싱글톤 객체 로직 호출");
     }
 
 }
